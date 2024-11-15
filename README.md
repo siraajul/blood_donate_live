@@ -2,7 +2,7 @@
 
 
 ## Screenshots
-<img src = "screenshot/screen01.png" width ="200" />
+<img src = "screenshots/image01.png" width ="200" />
 
 
 ## Getting Started
