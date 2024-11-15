@@ -17,12 +17,12 @@
 
 1. Clone the repository
 ```bash
-git clone https://github.com/siraajul/submission.git
+git clone https://github.com/siraajul/blood_donate_live.git
 ```
 
 2. Navigate to the project directory
 ```bash
-cd panels
+cd blood_donate_live
 ```
 
 3. Install dependencies
@@ -39,7 +39,7 @@ flutter run
 
 ```
 lib/
-  ├── screenc/         # UI screens
+  ├── screens/         # UI screens
   └── main.dart      # Entry point
 ```
 
@@ -59,4 +59,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Your Name - [@siraaajul](https://twitter.com/siraaajul)
 
-Project Link: [https://github.com/siraajul/submission](https://github.com/siraajul/submission)
+Project Link: [https://github.com/siraajul/blood_donate_live](https://github.com/siraajul/blood_donate_live)
